@@ -1,6 +1,8 @@
 # Visualisasi Data Produksi Tanaman Padi di Sumatera
-Proyek mata kuliah Grafika Komputer dan Visualisasi. Menampilkan data produktivitas padi di provinsi Sumatera  2011-2020.
-Dibuat dengan menggunakan Javascript library Plotly.
+Proyek mata kuliah Grafika Komputer dan Visualisasi. Sumatera, lumbung padi Indonesia, menyumbang lebih dari setengah lahan pertanian di setiap provinsinya. Namun, dengan perubahan iklim yang mengancam, pola tanam dan hasil produksi padi menjadi rentan.
+
+Proyek ini bertujuan untuk membuat visualisasi data produksi padi di Sumatera dengan sumber data dari Badan Pusat Statistik (BPS) untuk hasil produksi dan luas lahan padi dari tahun 1993 hingga 2020. Data cuaca harian seperti curah hujan, kelembapan, dan suhu rata-rata diperoleh dari Badan Meteorologi, Klimatologi, dan Geofisika (BMKG).
+Dibuat dengan menggunakan Javascript library Plotly. 
 
 ## Data yang di Visualisasikan:
 1. line chart: rentang tahun dan jumlah produksi per provinsi
