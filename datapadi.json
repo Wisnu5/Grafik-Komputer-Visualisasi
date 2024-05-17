@@ -1,0 +1,722 @@
+[
+    {
+        "Provinsi": "Aceh",
+        "Tahun": 2011,
+        "Produksi": 1772962.0,
+        "Luas Panen": 380686.0,
+        "Curah hujan": 1268.0,
+        "Kelembapan": 79.4,
+        "Suhu rata-rata": 27.1
+    },
+    {
+        "Provinsi": "Aceh",
+        "Tahun": 2012,
+        "Produksi": 1582393.0,
+        "Luas Panen": 387803.0,
+        "Curah hujan": 1098.0,
+        "Kelembapan": 79.6,
+        "Suhu rata-rata": 26.9
+    },
+    {
+        "Provinsi": "Aceh",
+        "Tahun": 2013,
+        "Produksi": 2331046.0,
+        "Luas Panen": 419183.0,
+        "Curah hujan": 1623.6,
+        "Kelembapan": 80.7,
+        "Suhu rata-rata": 27.0
+    },
+    {
+        "Provinsi": "Aceh",
+        "Tahun": 2014,
+        "Produksi": 1820062.0,
+        "Luas Panen": 376137.0,
+        "Curah hujan": 2264.4,
+        "Kelembapan": 78.3,
+        "Suhu rata-rata": 27.1
+    },
+    {
+        "Provinsi": "Aceh",
+        "Tahun": 2015,
+        "Produksi": 1956940.0,
+        "Luas Panen": 461060.0,
+        "Curah hujan": 1575.0,
+        "Kelembapan": 80.0,
+        "Suhu rata-rata": 27.1
+    },
+    {
+        "Provinsi": "Aceh",
+        "Tahun": 2016,
+        "Produksi": 2180754.0,
+        "Luas Panen": 293067.0,
+        "Curah hujan": 1096.0,
+        "Kelembapan": 83.32,
+        "Suhu rata-rata": 27.12
+    },
+    {
+        "Provinsi": "Aceh",
+        "Tahun": 2017,
+        "Produksi": 2478922.0,
+        "Luas Panen": 294483.0,
+        "Curah hujan": 1905.9,
+        "Kelembapan": 85.57,
+        "Suhu rata-rata": 26.51
+    },
+    {
+        "Provinsi": "Aceh",
+        "Tahun": 2018,
+        "Produksi": 1751996.9399999999,
+        "Luas Panen": 329515.78,
+        "Curah hujan": 1427.8,
+        "Kelembapan": 83.98,
+        "Suhu rata-rata": 26.48
+    },
+    {
+        "Provinsi": "Aceh",
+        "Tahun": 2019,
+        "Produksi": 1714437.6000000001,
+        "Luas Panen": 310012.46,
+        "Curah hujan": 1931.4,
+        "Kelembapan": 83.9,
+        "Suhu rata-rata": 26.65
+    },
+    {
+        "Provinsi": "Aceh",
+        "Tahun": 2020,
+        "Produksi": 1861567.1000000001,
+        "Luas Panen": 317869.41,
+        "Curah hujan": 1619.2,
+        "Kelembapan": 80.82,
+        "Suhu rata-rata": 25.41
+    },
+    {
+        "Provinsi": "Sumatera Utara",
+        "Tahun": 2011,
+        "Produksi": 3607403.0,
+        "Luas Panen": 757547.0,
+        "Curah hujan": 2042.0,
+        "Kelembapan": 79.0,
+        "Suhu rata-rata": 27.2
+    },
+    {
+        "Provinsi": "Sumatera Utara",
+        "Tahun": 2012,
+        "Produksi": 3715514.0,
+        "Luas Panen": 765099.0,
+        "Curah hujan": 3175.0,
+        "Kelembapan": 76.0,
+        "Suhu rata-rata": 27.3
+    },
+    {
+        "Provinsi": "Sumatera Utara",
+        "Tahun": 2013,
+        "Produksi": 3727249.0,
+        "Luas Panen": 742968.0,
+        "Curah hujan": 2627.0,
+        "Kelembapan": 78.67,
+        "Suhu rata-rata": 28.8
+    },
+    {
+        "Provinsi": "Sumatera Utara",
+        "Tahun": 2014,
+        "Produksi": 3631039.0,
+        "Luas Panen": 717318.0,
+        "Curah hujan": 2148.0,
+        "Kelembapan": 79.0,
+        "Suhu rata-rata": 27.9
+    },
+    {
+        "Provinsi": "Sumatera Utara",
+        "Tahun": 2015,
+        "Produksi": 4044829.0,
+        "Luas Panen": 781769.0,
+        "Curah hujan": 975.9,
+        "Kelembapan": 86.9,
+        "Suhu rata-rata": 27.4
+    },
+    {
+        "Provinsi": "Sumatera Utara",
+        "Tahun": 2016,
+        "Produksi": 4387035.9000000004,
+        "Luas Panen": 423029.0,
+        "Curah hujan": 2384.0,
+        "Kelembapan": 82.0,
+        "Suhu rata-rata": 27.65
+    },
+    {
+        "Provinsi": "Sumatera Utara",
+        "Tahun": 2017,
+        "Produksi": 4669777.5,
+        "Luas Panen": 415675.0,
+        "Curah hujan": 3190.0,
+        "Kelembapan": 84.0,
+        "Suhu rata-rata": 27.5
+    },
+    {
+        "Provinsi": "Sumatera Utara",
+        "Tahun": 2018,
+        "Produksi": 2108284.7200000002,
+        "Luas Panen": 408176.45,
+        "Curah hujan": 2431.0,
+        "Kelembapan": 80.0,
+        "Suhu rata-rata": 26.41
+    },
+    {
+        "Provinsi": "Sumatera Utara",
+        "Tahun": 2019,
+        "Produksi": 2078901.5900000001,
+        "Luas Panen": 413141.24,
+        "Curah hujan": 1401.6,
+        "Kelembapan": 86.53,
+        "Suhu rata-rata": 27.03
+    },
+    {
+        "Provinsi": "Sumatera Utara",
+        "Tahun": 2020,
+        "Produksi": 2076280.01,
+        "Luas Panen": 388591.22,
+        "Curah hujan": 1648.3,
+        "Kelembapan": 83.76,
+        "Suhu rata-rata": 25.79
+    },
+    {
+        "Provinsi": "Sumatera Barat",
+        "Tahun": 2011,
+        "Produksi": 2279602.0,
+        "Luas Panen": 461709.0,
+        "Curah hujan": 4959.5,
+        "Kelembapan": 54.2,
+        "Suhu rata-rata": 26.0
+    },
+    {
+        "Provinsi": "Sumatera Barat",
+        "Tahun": 2012,
+        "Produksi": 2368390.0,
+        "Luas Panen": 476422.0,
+        "Curah hujan": 4339.0,
+        "Kelembapan": 87.0,
+        "Suhu rata-rata": 25.2
+    },
+    {
+        "Provinsi": "Sumatera Barat",
+        "Tahun": 2013,
+        "Produksi": 2430384.0,
+        "Luas Panen": 487820.0,
+        "Curah hujan": 4627.9,
+        "Kelembapan": 86.91,
+        "Suhu rata-rata": 25.1
+    },
+    {
+        "Provinsi": "Sumatera Barat",
+        "Tahun": 2014,
+        "Produksi": 2519020.0,
+        "Luas Panen": 503198.0,
+        "Curah hujan": 2838.4,
+        "Kelembapan": 85.35,
+        "Suhu rata-rata": 25.7
+    },
+    {
+        "Provinsi": "Sumatera Barat",
+        "Tahun": 2015,
+        "Produksi": 2550609.0,
+        "Luas Panen": 507545.0,
+        "Curah hujan": 3548.0,
+        "Kelembapan": 84.0,
+        "Suhu rata-rata": 26.5
+    },
+    {
+        "Provinsi": "Sumatera Barat",
+        "Tahun": 2016,
+        "Produksi": 2487929.0,
+        "Luas Panen": 222482.0,
+        "Curah hujan": 4205.2,
+        "Kelembapan": 76.49,
+        "Suhu rata-rata": 23.26
+    },
+    {
+        "Provinsi": "Sumatera Barat",
+        "Tahun": 2017,
+        "Produksi": 2810425.0,
+        "Luas Panen": 222021.0,
+        "Curah hujan": 4553.0,
+        "Kelembapan": 75.11,
+        "Suhu rata-rata": 22.19
+    },
+    {
+        "Provinsi": "Sumatera Barat",
+        "Tahun": 2018,
+        "Produksi": 1483076.48,
+        "Luas Panen": 313050.82,
+        "Curah hujan": 327.33,
+        "Kelembapan": 82.71,
+        "Suhu rata-rata": 26.91
+    },
+    {
+        "Provinsi": "Sumatera Barat",
+        "Tahun": 2019,
+        "Produksi": 1482996.01,
+        "Luas Panen": 311671.23,
+        "Curah hujan": 4757.5,
+        "Kelembapan": 87.73,
+        "Suhu rata-rata": 25.61
+    },
+    {
+        "Provinsi": "Sumatera Barat",
+        "Tahun": 2020,
+        "Produksi": 1450839.74,
+        "Luas Panen": 295664.47,
+        "Curah hujan": 4072.7,
+        "Kelembapan": 85.22,
+        "Suhu rata-rata": 26.26
+    },
+    {
+        "Provinsi": "Riau",
+        "Tahun": 2011,
+        "Produksi": 535788.0,
+        "Luas Panen": 145242.0,
+        "Curah hujan": 2405.0,
+        "Kelembapan": 74.5,
+        "Suhu rata-rata": 27.0
+    },
+    {
+        "Provinsi": "Riau",
+        "Tahun": 2012,
+        "Produksi": 512152.0,
+        "Luas Panen": 144015.0,
+        "Curah hujan": 2636.0,
+        "Kelembapan": 76.1,
+        "Suhu rata-rata": 27.3
+    },
+    {
+        "Provinsi": "Riau",
+        "Tahun": 2013,
+        "Produksi": 434144.0,
+        "Luas Panen": 118518.0,
+        "Curah hujan": 2628.0,
+        "Kelembapan": 76.0,
+        "Suhu rata-rata": 26.0
+    },
+    {
+        "Provinsi": "Riau",
+        "Tahun": 2014,
+        "Produksi": 385475.0,
+        "Luas Panen": 106037.0,
+        "Curah hujan": 2343.0,
+        "Kelembapan": 78.1,
+        "Suhu rata-rata": 27.2
+    },
+    {
+        "Provinsi": "Riau",
+        "Tahun": 2015,
+        "Produksi": 393917.0,
+        "Luas Panen": 107546.0,
+        "Curah hujan": 2048.3,
+        "Kelembapan": 80.5,
+        "Suhu rata-rata": 27.2
+    },
+    {
+        "Provinsi": "Riau",
+        "Tahun": 2016,
+        "Produksi": 325826.0,
+        "Luas Panen": 72151.0,
+        "Curah hujan": 2105.6,
+        "Kelembapan": 83.72,
+        "Suhu rata-rata": 27.0
+    },
+    {
+        "Provinsi": "Riau",
+        "Tahun": 2017,
+        "Produksi": 337421.0,
+        "Luas Panen": 70016.0,
+        "Curah hujan": 2982.9,
+        "Kelembapan": 84.76,
+        "Suhu rata-rata": 26.7
+    },
+    {
+        "Provinsi": "Riau",
+        "Tahun": 2018,
+        "Produksi": 266375.53,
+        "Luas Panen": 71448.08,
+        "Curah hujan": 1837.1,
+        "Kelembapan": 71.22,
+        "Suhu rata-rata": 25.0
+    },
+    {
+        "Provinsi": "Riau",
+        "Tahun": 2019,
+        "Produksi": 230873.97,
+        "Luas Panen": 63142.04,
+        "Curah hujan": 1608.3,
+        "Kelembapan": 83.77,
+        "Suhu rata-rata": 26.91
+    },
+    {
+        "Provinsi": "Riau",
+        "Tahun": 2020,
+        "Produksi": 269344.05,
+        "Luas Panen": 64733.13,
+        "Curah hujan": 2584.9,
+        "Kelembapan": 81.8,
+        "Suhu rata-rata": 25.93
+    },
+    {
+        "Provinsi": "Jambi",
+        "Tahun": 2011,
+        "Produksi": 646641.0,
+        "Luas Panen": 157441.0,
+        "Curah hujan": 2295.0,
+        "Kelembapan": 82.5,
+        "Suhu rata-rata": 26.9
+    },
+    {
+        "Provinsi": "Jambi",
+        "Tahun": 2012,
+        "Produksi": 625164.0,
+        "Luas Panen": 149369.0,
+        "Curah hujan": 1874.0,
+        "Kelembapan": 81.4,
+        "Suhu rata-rata": 26.7
+    },
+    {
+        "Provinsi": "Jambi",
+        "Tahun": 2013,
+        "Produksi": 664535.0,
+        "Luas Panen": 153243.0,
+        "Curah hujan": 2093.0,
+        "Kelembapan": 83.42,
+        "Suhu rata-rata": 26.8
+    },
+    {
+        "Provinsi": "Jambi",
+        "Tahun": 2014,
+        "Produksi": 664720.0,
+        "Luas Panen": 145990.0,
+        "Curah hujan": 1781.0,
+        "Kelembapan": 82.8,
+        "Suhu rata-rata": 27.2
+    },
+    {
+        "Provinsi": "Jambi",
+        "Tahun": 2015,
+        "Produksi": 541486.0,
+        "Luas Panen": 122214.0,
+        "Curah hujan": 1694.9,
+        "Kelembapan": 82.1,
+        "Suhu rata-rata": 27.0
+    },
+    {
+        "Provinsi": "Jambi",
+        "Tahun": 2016,
+        "Produksi": 642095.0,
+        "Luas Panen": 96588.0,
+        "Curah hujan": 1502.4,
+        "Kelembapan": 83.84,
+        "Suhu rata-rata": 26.84
+    },
+    {
+        "Provinsi": "Jambi",
+        "Tahun": 2017,
+        "Produksi": 678127.0,
+        "Luas Panen": 97690.0,
+        "Curah hujan": 2193.2,
+        "Kelembapan": 83.69,
+        "Suhu rata-rata": 26.62
+    },
+    {
+        "Provinsi": "Jambi",
+        "Tahun": 2018,
+        "Produksi": 383045.74,
+        "Luas Panen": 86202.68,
+        "Curah hujan": 2182.3,
+        "Kelembapan": 82.23,
+        "Suhu rata-rata": 26.62
+    },
+    {
+        "Provinsi": "Jambi",
+        "Tahun": 2019,
+        "Produksi": 309932.68,
+        "Luas Panen": 69536.06,
+        "Curah hujan": 1773.4,
+        "Kelembapan": 81.44,
+        "Suhu rata-rata": 26.94
+    },
+    {
+        "Provinsi": "Jambi",
+        "Tahun": 2020,
+        "Produksi": 374376.27,
+        "Luas Panen": 84772.93,
+        "Curah hujan": 2303.8,
+        "Kelembapan": 78.24,
+        "Suhu rata-rata": 25.85
+    },
+    {
+        "Provinsi": "Sumatera Selatan",
+        "Tahun": 2011,
+        "Produksi": 3384670.0,
+        "Luas Panen": 784820.0,
+        "Curah hujan": 2593.0,
+        "Kelembapan": 84.8,
+        "Suhu rata-rata": 27.3
+    },
+    {
+        "Provinsi": "Sumatera Selatan",
+        "Tahun": 2012,
+        "Produksi": 3295247.0,
+        "Luas Panen": 769725.0,
+        "Curah hujan": 3083.0,
+        "Kelembapan": 83.0,
+        "Suhu rata-rata": 27.4
+    },
+    {
+        "Provinsi": "Sumatera Selatan",
+        "Tahun": 2013,
+        "Produksi": 3676723.0,
+        "Luas Panen": 800036.0,
+        "Curah hujan": 3409.0,
+        "Kelembapan": 84.0,
+        "Suhu rata-rata": 27.3
+    },
+    {
+        "Provinsi": "Sumatera Selatan",
+        "Tahun": 2014,
+        "Produksi": 3670435.0,
+        "Luas Panen": 810900.0,
+        "Curah hujan": 1668.3,
+        "Kelembapan": 81.0,
+        "Suhu rata-rata": 26.0
+    },
+    {
+        "Provinsi": "Sumatera Selatan",
+        "Tahun": 2015,
+        "Produksi": 4247922.0,
+        "Luas Panen": 872737.0,
+        "Curah hujan": 1947.2,
+        "Kelembapan": 79.5,
+        "Suhu rata-rata": 27.7
+    },
+    {
+        "Provinsi": "Sumatera Selatan",
+        "Tahun": 2016,
+        "Produksi": 4881089.0,
+        "Luas Panen": 615184.0,
+        "Curah hujan": 3477.9,
+        "Kelembapan": 82.22,
+        "Suhu rata-rata": 27.31
+    },
+    {
+        "Provinsi": "Sumatera Selatan",
+        "Tahun": 2017,
+        "Produksi": 4807430.0,
+        "Luas Panen": 621903.0,
+        "Curah hujan": 2489.5,
+        "Kelembapan": 81.08,
+        "Suhu rata-rata": 26.75
+    },
+    {
+        "Provinsi": "Sumatera Selatan",
+        "Tahun": 2018,
+        "Produksi": 2994191.8399999999,
+        "Luas Panen": 581574.61,
+        "Curah hujan": 2252.4,
+        "Kelembapan": 77.66,
+        "Suhu rata-rata": 27.0
+    },
+    {
+        "Provinsi": "Sumatera Selatan",
+        "Tahun": 2019,
+        "Produksi": 2603396.2400000002,
+        "Luas Panen": 539316.52,
+        "Curah hujan": 1655.5,
+        "Kelembapan": 85.13,
+        "Suhu rata-rata": 27.6
+    },
+    {
+        "Provinsi": "Sumatera Selatan",
+        "Tahun": 2020,
+        "Produksi": 2696877.46,
+        "Luas Panen": 551320.76,
+        "Curah hujan": 2300.2,
+        "Kelembapan": 81.1,
+        "Suhu rata-rata": 26.14
+    },
+    {
+        "Provinsi": "Bengkulu",
+        "Tahun": 2011,
+        "Produksi": 502552.0,
+        "Luas Panen": 127934.0,
+        "Curah hujan": 2465.7,
+        "Kelembapan": 82.52,
+        "Suhu rata-rata": 26.35
+    },
+    {
+        "Provinsi": "Bengkulu",
+        "Tahun": 2012,
+        "Produksi": 581910.0,
+        "Luas Panen": 144448.0,
+        "Curah hujan": 2545.0,
+        "Kelembapan": 82.0,
+        "Suhu rata-rata": 26.9
+    },
+    {
+        "Provinsi": "Bengkulu",
+        "Tahun": 2013,
+        "Produksi": 622832.0,
+        "Luas Panen": 147680.0,
+        "Curah hujan": 3980.9,
+        "Kelembapan": 83.93,
+        "Suhu rata-rata": 26.7
+    },
+    {
+        "Provinsi": "Bengkulu",
+        "Tahun": 2014,
+        "Produksi": 593194.0,
+        "Luas Panen": 147572.0,
+        "Curah hujan": 3323.0,
+        "Kelembapan": 83.7,
+        "Suhu rata-rata": 26.9
+    },
+    {
+        "Provinsi": "Bengkulu",
+        "Tahun": 2015,
+        "Produksi": 578654.0,
+        "Luas Panen": 128833.0,
+        "Curah hujan": 2668.9,
+        "Kelembapan": 83.2,
+        "Suhu rata-rata": 27.0
+    },
+    {
+        "Provinsi": "Bengkulu",
+        "Tahun": 2016,
+        "Produksi": 629224.0,
+        "Luas Panen": 83449.0,
+        "Curah hujan": 3350.1,
+        "Kelembapan": 83.38,
+        "Suhu rata-rata": 26.77
+    },
+    {
+        "Provinsi": "Bengkulu",
+        "Tahun": 2017,
+        "Produksi": 714017.0,
+        "Luas Panen": 82429.0,
+        "Curah hujan": 3949.8,
+        "Kelembapan": 84.2,
+        "Suhu rata-rata": 26.52
+    },
+    {
+        "Provinsi": "Bengkulu",
+        "Tahun": 2018,
+        "Produksi": 288810.52,
+        "Luas Panen": 65891.16,
+        "Curah hujan": 3649.9,
+        "Kelembapan": 83.79,
+        "Suhu rata-rata": 26.64
+    },
+    {
+        "Provinsi": "Bengkulu",
+        "Tahun": 2019,
+        "Produksi": 296472.07,
+        "Luas Panen": 64406.86,
+        "Curah hujan": 1786.2,
+        "Kelembapan": 83.26,
+        "Suhu rata-rata": 26.56
+    },
+    {
+        "Provinsi": "Bengkulu",
+        "Tahun": 2020,
+        "Produksi": 296925.16,
+        "Luas Panen": 64137.28,
+        "Curah hujan": 4144.0,
+        "Kelembapan": 80.18,
+        "Suhu rata-rata": 25.84
+    },
+    {
+        "Provinsi": "Lampung",
+        "Tahun": 2011,
+        "Produksi": 2940795.0,
+        "Luas Panen": 606973.0,
+        "Curah hujan": 1568.0,
+        "Kelembapan": 77.8,
+        "Suhu rata-rata": 26.8
+    },
+    {
+        "Provinsi": "Lampung",
+        "Tahun": 2012,
+        "Produksi": 3101455.0,
+        "Luas Panen": 641876.0,
+        "Curah hujan": 1685.0,
+        "Kelembapan": 79.2,
+        "Suhu rata-rata": 26.8
+    },
+    {
+        "Provinsi": "Lampung",
+        "Tahun": 2013,
+        "Produksi": 3207002.0,
+        "Luas Panen": 638090.0,
+        "Curah hujan": 2456.7,
+        "Kelembapan": 81.0,
+        "Suhu rata-rata": 26.7
+    },
+    {
+        "Provinsi": "Lampung",
+        "Tahun": 2014,
+        "Produksi": 3320064.0,
+        "Luas Panen": 648731.0,
+        "Curah hujan": 1682.5,
+        "Kelembapan": 79.9,
+        "Suhu rata-rata": 25.8
+    },
+    {
+        "Provinsi": "Lampung",
+        "Tahun": 2015,
+        "Produksi": 3641895.0,
+        "Luas Panen": 707266.0,
+        "Curah hujan": 1628.1,
+        "Kelembapan": 78.9,
+        "Suhu rata-rata": 27.1
+    },
+    {
+        "Provinsi": "Lampung",
+        "Tahun": 2016,
+        "Produksi": 3831923.0,
+        "Luas Panen": 390799.0,
+        "Curah hujan": 2317.6,
+        "Kelembapan": 79.4,
+        "Suhu rata-rata": 26.45
+    },
+    {
+        "Provinsi": "Lampung",
+        "Tahun": 2017,
+        "Produksi": 4090654.0,
+        "Luas Panen": 396559.0,
+        "Curah hujan": 1825.1,
+        "Kelembapan": 77.04,
+        "Suhu rata-rata": 26.36
+    },
+    {
+        "Provinsi": "Lampung",
+        "Tahun": 2018,
+        "Produksi": 2488641.9100000001,
+        "Luas Panen": 511940.93,
+        "Curah hujan": 1385.8,
+        "Kelembapan": 76.05,
+        "Suhu rata-rata": 25.5
+    },
+    {
+        "Provinsi": "Lampung",
+        "Tahun": 2019,
+        "Produksi": 2164089.3300000001,
+        "Luas Panen": 464103.42,
+        "Curah hujan": 1706.4,
+        "Kelembapan": 78.03,
+        "Suhu rata-rata": 27.23
+    },
+    {
+        "Provinsi": "Lampung",
+        "Tahun": 2020,
+        "Produksi": 2604913.29,
+        "Luas Panen": 545149.05,
+        "Curah hujan": 2211.3,
+        "Kelembapan": 75.8,
+        "Suhu rata-rata": 24.58
+    }
+]
